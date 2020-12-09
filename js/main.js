@@ -57,23 +57,8 @@ $(function(){
       name: 'GitHub',
       url: 'https://github.com/search?q='
     }, {
-      name: 'DuckDuckGo',
-      url: 'https://duckduckgo.com/?q='
-    }, {
       name: 'BiliBili',
       url: 'https://search.bilibili.com/all?keyword='
-    }, {
-      name: 'Sougou',
-      url: 'https://www.sogou.com/web?query='
-    }, {
-      name: 'so',
-      url: 'https://www.so.com/s?q='
-    }, {
-      name: 'Zhihu',
-      url: 'https://www.zhihu.com/search?type=content&q='
-    }, {
-      name: 'mengso',
-      url: 'http://www.mengso.com/search?q='
     }]
   }
   for(var i = 0; i < search.data.length; i++){
