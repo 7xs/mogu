@@ -80,7 +80,6 @@ function echo_nav($list){
         <div class="menu" id="menu">
             <ul class="scrollcontent">
                 <!-- Left Nav -->
-                <li><a href="https://t.me/vpsqun">Telegram群</a></li>
                 <?php
                     $list_nav=get_file("nav.txt");
                     echo_nav($list_nav);
