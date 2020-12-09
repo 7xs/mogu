@@ -1,5 +1,6 @@
 # nav
-根据[SimpleWebNavigation](https://github.com/KrunkZhou/SimpleWebNavigation)修改而来的一个php导航，演示https://shushe.co
+根据[SimpleWebNavigation](https://github.com/KrunkZhou/SimpleWebNavigation)修改而来的一个php导航。支持php8，支持左侧锚点，支持自定义fontawesome图标。
+演示https://shushe.co
 
 ## 演示
 ![演示](/demo.png)
