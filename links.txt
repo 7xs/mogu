@@ -5,14 +5,10 @@ fa fa-home
 https://www.baidu.com
 谷歌
 https://www.google.com
-Outlook
-https://www.outlook.com
 QQ邮箱
 http://mail.qq.com
 Gmail
 http://gmail.com
-百度翻译
-https://fanyi.baidu.com
 谷歌翻译
 https://translate.google.cn
 Github
@@ -41,10 +37,6 @@ fas fa-book
 https://study.163.com
 慕课
 https://www.icourse163.org
-Lofter
-http://www.lofter.com
-behance
-https://www.behance.net
 维基百科
 https://zh.wikipedia.org
 endbox
@@ -88,8 +80,6 @@ fas fa-shopping-cart
 http://www.jd.com/
 淘宝
 http://www.taobao.com/
-阿里巴巴
-https://www.1688.com/
 苏宁易购
 http://www.suning.com/
 endbox
