@@ -112,14 +112,6 @@ function echo_nav($list){
             <?php
               $list_link=get_file("links.txt");
               echo_link($list_link);
-
-              // if ($is_internal){
-              //   $list_link=get_file("internal-data.txt");
-              //   echo_link($list_link);
-              // }
-
-              // $list_link=get_file("foot-data.txt");
-              // echo_link($list_link);
             ?>
             <!-- Footer -->
             <footer class="footer">
