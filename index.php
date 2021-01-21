@@ -1,4 +1,6 @@
 <?php
+ini_set('display_errors','Off');
+
 function get_file($file){
     $data=file_get_contents($file);
     $linkList=array();
